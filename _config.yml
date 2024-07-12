@@ -116,7 +116,7 @@ author:
   name             : "雾里灯"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "存文之地."
-  location         : "Somewhere"
+  location         : "某处"
   email            :
   links:
     - label: "Email"
